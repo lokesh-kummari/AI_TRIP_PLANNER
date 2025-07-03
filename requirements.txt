@@ -15,5 +15,5 @@ httpx
 langchain_openai
 langchain_google_community
 langgraph
-
+langchain-google-community[places]
 -e .
